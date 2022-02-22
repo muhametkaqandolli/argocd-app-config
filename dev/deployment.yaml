@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: memikaqandolli/myresumeapp
         ports:
-        - containerPort: 8080
+        - containerPort: 80
