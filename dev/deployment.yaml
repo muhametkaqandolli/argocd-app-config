@@ -15,5 +15,6 @@ spec:
       containers:
       - name: myapp
         image: memikaqandolli/myresumeapp
+        imagePullPolicy: Always
         ports:
         - containerPort: 80
